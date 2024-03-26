@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=sweetandsourkiss&color=3498db)
 
-# 👋 Hello, I'm 🄹🄰🅈
+# 👋 Hello, I'm 🄹 🄰 🅈
 visit my [introduction](https://sweetandsourkiss.github.io/introduction/)
 ## 🛹 Skills
 ![HTML5](https://img.shields.io/badge/-HTML5-535c68?style=flat&logo=html5)
