@@ -10,17 +10,19 @@
 ![React](https://img.shields.io/badge/-React-535c68?style=flat&logo=react)
 ![Next](https://img.shields.io/badge/-Next-535c68?style=flat&logo=nextdotjs&logoColor=000000)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-535c68?style=flat&logo=tailwindcss)
-![Unity](https://img.shields.io/badge/-Unity-535c68?style=flat&logo=unity)
-<!--
-![Dart](https://img.shields.io/badge/-Dart-535c68?style=flat&logo=dart&logoColor=0175C2)
 ![Flutter](https://img.shields.io/badge/-Flutter-535c68?style=flat&logo=flutter&logoColor=02569B)
+![Dart](https://img.shields.io/badge/-Dart-535c68?style=flat&logo=dart&logoColor=0175C2)
+
+![Slack](https://img.shields.io/badge/-slack-535c68?style=flat&logo=slack&logoColor=4A154B)
+![Jira Software](https://img.shields.io/badge/-Jira_Software-535c68?style=flat&logo=jirasoftware&logoColor=0052CC)
+
+<!--
+![Unity](https://img.shields.io/badge/-Unity-535c68?style=flat&logo=unity)
 ![Figma](https://img.shields.io/badge/-figma-535c68?style=flat&logo=figma&logoColor=F24E1E)
 ![Stripe](https://img.shields.io/badge/-Stripe-535c68?style=flat&logo=stripe&logoColor=008CDD)
 ![Prisma](https://img.shields.io/badge/-Prisma-535c68?style=flat&logo=prisma&logoColor=2D3748)
 ![Firebase](https://img.shields.io/badge/-Firebase-535c68?style=flat&logo=firebase&logoColor=FFCA28)
-![Slack](https://img.shields.io/badge/-slack-535c68?style=flat&logo=slack&logoColor=4A154B)
 ![Notion](https://img.shields.io/badge/-Notion-535c68?style=flat&logo=notion&logoColor=000000)
-![Jira Software](https://img.shields.io/badge/-Jira_Software-535c68?style=flat&logo=jirasoftware&logoColor=0052CC)
 -->
 
 <!--
