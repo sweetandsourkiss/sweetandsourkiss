@@ -12,7 +12,7 @@ Hi I'm Jay. I'm interesting in learning new stacks.
 
 _Web-based kiosk for the visually impared_
 
-- [presentation slides](https://innovative-spice-010.notion.site/SSIOSK_PPT-1c8a59eb474d802e9f82db91abf522e0?pvs=74)
+- [presentation slides](https://innovative-spice-010.notion.site/SSIOSK_PPT-1c8a59eb474d802e9f82db91abf522e0)
 - [source code](https://github.com/sweetandsourkiss/ssiosk)
 
 <hr>
