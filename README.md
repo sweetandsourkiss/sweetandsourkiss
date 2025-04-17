@@ -39,6 +39,7 @@ _Rewind your tab history._
 
 ## 🌱 I’m currently learning
 
+- [Linux for hacker](https://academy.segfaulthub.com/courses)
 - [Cursor](https://www.cursor.com/)
 
 ## 🛹 Skills
