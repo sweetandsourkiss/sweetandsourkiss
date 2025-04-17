@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=sweetandsourkiss&color=3498db)
 
-# 👋 Hello, I'm 🄹 🄰 🅈
+# Hello, I'm 🄹 🄰 🅈
 
-Hi I'm Jay. I'm interesting in learning new stacks.
+I'm a passionate developer focusing on sincere user experience.
 
 ## 🔭 Team Projects
 
@@ -10,7 +10,7 @@ Hi I'm Jay. I'm interesting in learning new stacks.
 
 ![ssiosk-image](images/ssiosk-image.png)
 
-_Web-based kiosk for the visually impared_
+_Web-based kiosk for the visually impared._
 
 - [presentation slides](https://innovative-spice-010.notion.site/SSIOSK_PPT-1c8a59eb474d802e9f82db91abf522e0)
 - [source code](https://github.com/sweetandsourkiss/ssiosk)
@@ -21,7 +21,7 @@ _Web-based kiosk for the visually impared_
 
 ![bobzoo-image](images/bobzoo-image.png)
 
-_A rogue-like, TPS game made with Unity_
+_A rogue-like, TPS game made with Unity._
 
 - [home page](https://bob-zoo.vercel.app/)
 - [source code](https://github.com/sweetandsourkiss/bob-zoo)
@@ -30,11 +30,16 @@ _A rogue-like, TPS game made with Unity_
 
 ### Retab
 
-![retab-loog](images/retab-image.png)
-_Rewind your tab history_
+![retab-image](images/retab-image.png)
+
+_Rewind your tab history._
 
 - [chrome web store](https://chromewebstore.google.com/detail/retab/noncniepfjlgndimglpfcmaeekcehjck?authuser=0&hl=ko)
 - [source code](https://github.com/sweetandsourkiss/retab)
+
+## 🌱 I’m currently learning
+
+- [Cursor](https://www.cursor.com/)
 
 ## 🛹 Skills
 
