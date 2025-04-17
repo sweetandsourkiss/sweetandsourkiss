@@ -6,23 +6,35 @@ Hi I'm Jay. I'm interesting in learning new stacks.
 
 ## 🔭 Team Projects
 
-### 1. SSIOSK
+### SSIOSK
 
-![ssiosk-logo](images/ssiosk-logo.png)
+![ssiosk-image](images/ssiosk-image.png)
 
-Web-based kiosk for the visually impared
+_Web-based kiosk for the visually impared_
 
 - [presentation slides](https://innovative-spice-010.notion.site/SSIOSK_PPT-1c8a59eb474d802e9f82db91abf522e0?pvs=74)
 - [source code](https://github.com/sweetandsourkiss/ssiosk)
 
-### 2. BOBZOO
+<hr>
 
-![bobzoo-logo](images/bobzoo-logo.png)
+### BOBZOO
 
-A rogue-like, TPS game made with Unity
+![bobzoo-image](images/bobzoo-image.png)
+
+_A rogue-like, TPS game made with Unity_
 
 - [home page](https://bob-zoo.vercel.app/)
 - [source code](https://github.com/sweetandsourkiss/bob-zoo)
+
+## 🪀 Toy Projects
+
+### Retab
+
+![retab-loog](images/retab-image.png)
+_Rewind your tab history_
+
+- [chrome web store](https://chromewebstore.google.com/detail/retab/noncniepfjlgndimglpfcmaeekcehjck?authuser=0&hl=ko)
+- [source code](https://github.com/sweetandsourkiss/retab)
 
 ## 🛹 Skills
 
