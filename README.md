@@ -1,17 +1,31 @@
 ![](https://komarev.com/ghpvc/?username=sweetandsourkiss&color=3498db)
 
 # 👋 Hello, I'm 🄹 🄰 🅈
+
 Hi I'm Jay. I'm interesting in learning new stacks.
+
 ## 🔭 Team Projects
-### SSIOSK
+
+### 1. SSIOSK
+
+![ssiosk-logo](images/ssiosk-logo.png)
+
 Web-based kiosk for the visually impared
+
 - [presentation slides](https://innovative-spice-010.notion.site/SSIOSK_PPT-1c8a59eb474d802e9f82db91abf522e0?pvs=74)
 - [source code](https://github.com/sweetandsourkiss/ssiosk)
-### BOBZOO
+
+### 2. BOBZOO
+
+![bobzoo-logo](images/bobzoo-logo.png)
+
 A rogue-like, TPS game made with Unity
+
 - [home page](https://bob-zoo.vercel.app/)
 - [source code](https://github.com/sweetandsourkiss/bob-zoo)
+
 ## 🛹 Skills
+
 ![HTML5](https://img.shields.io/badge/-HTML5-535c68?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-535c68?style=flat&logo=css3&logoColor=1572B6)
 ![Javascript](https://img.shields.io/badge/-Javascript-535c68?style=flat&logo=javascript)
