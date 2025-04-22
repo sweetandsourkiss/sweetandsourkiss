@@ -24,7 +24,7 @@ _Web-based kiosk for the visually impared._
 _A rogue-like, TPS game made with Unity._
 
 - [home page](https://bob-zoo.vercel.app/)
-- [source code](https://github.com/sweetandsourkiss/bob-zoo)
+- [source code(home page)](https://github.com/sweetandsourkiss/bob-zoo)
 
 ## 🪀 Toy Projects
 
