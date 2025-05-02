@@ -6,36 +6,36 @@ I'm a passionate developer focusing on sincere user experience.
 
 ## 🔭 Team Projects
 
-### SSIOSK
+### [SSIOSK](https://github.com/sweetandsourkiss/ssiosk)
 
 ![ssiosk-image](images/ssiosk-image.png)
 
 _Web-based kiosk for the visually impared._
 
 - [presentation slides](https://innovative-spice-010.notion.site/SSIOSK_PPT-1c8a59eb474d802e9f82db91abf522e0)
-- [source code](https://github.com/sweetandsourkiss/ssiosk)
+- [repository](https://github.com/sweetandsourkiss/ssiosk)
 
 <hr>
 
-### BOBZOO
+### [BOBZOO](https://github.com/sweetandsourkiss/bob-zoo)
 
 ![bobzoo-image](images/bobzoo-image.png)
 
 _A rogue-like, TPS game made with Unity._
 
 - [home page](https://bob-zoo.vercel.app/)
-- [source code(home page)](https://github.com/sweetandsourkiss/bob-zoo)
+- [repository](https://github.com/sweetandsourkiss/bob-zoo)
 
 ## 🪀 Toy Projects
 
-### Retab
+### [Retab](https://github.com/sweetandsourkiss/retab)
 
 ![retab-image](images/retab-image.png)
 
 _Rewind your tab history._
 
 - [chrome web store](https://chromewebstore.google.com/detail/retab/noncniepfjlgndimglpfcmaeekcehjck?authuser=0&hl=ko)
-- [source code](https://github.com/sweetandsourkiss/retab)
+- [repository](https://github.com/sweetandsourkiss/retab)
 
 ## 🌱 I’m currently learning
 
