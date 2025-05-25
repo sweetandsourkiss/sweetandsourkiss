@@ -41,7 +41,6 @@ _Rewind your tab history._
 
 - [MDN: Learn web development](https://developer.mozilla.org/en-US/docs/Learn_web_development)
 - [Linux for hacker](https://academy.segfaulthub.com/courses)
-- [Cursor](https://www.cursor.com/)
 
 ## 🛹 Skills
 
